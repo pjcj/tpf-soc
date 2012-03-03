@@ -22,9 +22,8 @@ groups, including:
   * Perl Mongers
   * PerlMonks
 
-The Perl Foundation is dedicated to the advancement of the Perl programming
-language through open discussion, collaboration, design, and code. The Perl
-Foundation is a non-profit, 501(c)(3) organization based in Holland, Michigan.
+The Perl Foundation is a non-profit, 501(c)(3) organization based in Holland,
+Michigan.
 
 
 Organization home page url
@@ -55,7 +54,7 @@ irc://irc.perl.org/#soc-help
 What is the main development mailing list for your organization?
 
 tpf-gsoc-students@googlegroups.com is our main GSoC list, but there's many
-different development lists, given the TPF being an umbrella organisation.
+different development lists, given that TPF is an umbrella organisation.
 
 
 Why is your organization applying to participate in Google Summer of Code 2012?
