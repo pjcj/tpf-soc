@@ -1,0 +1,129 @@
+Project Title: Improving Devel::Cover
+
+
+Synopsis:
+
+The Perl Foundation has participated in the Google Summer of Code for six of
+the last seven years and has participated in all the Google Code-In
+programmes.  This has always been a good experience for the students, for
+Google, for TPF and for Perl in general.
+
+This year we applied to take part in the GSoC programme again but,
+unfortunately, we were not accepted.  It was explained to us that Google
+wanted to allow a number of new organisations to take part and so many
+organisations which had previously taken part were not accepted this year.  It
+was further explained that this did not reflect upon TPF or upon our
+application, and we were asked to apply again in future should Google continue
+to run the programme.
+
+However, we would like to ensure that the benefits we obtained from taking
+part in GSoC in previous years are not lost this year, and so we would like to
+run a Summer of Code programme ourselves this year.  This will be modelled
+closely upon the Google Summer of Code but will have a few changes applicable
+to our situation.
+
+We would like to apply for a grant from TPF to fund this programme.
+
+
+Benefits to Perl 5:
+
+Each year that we have participated in GSoC and GCI has been an extraordinary
+experience for both the students and the developers.  We plan to repeat this
+great success.
+
+Besides getting a fair bit of important work done during the summer, one of
+our main focus points will be helping our students get to know and interact
+with the different parts of our vast community.  We do everything we can to
+encourage them to stay involved with their project and with the community
+after the summer has finished, and to become a part of the Perl world as well
+as the free software movement in general. We have had great success in doing
+so with many of our previous students.
+
+Our track record for the previous Summer of Code years is as follows:
+
+2011: 6 out of 6 students passed
+2010: 3/5
+2009: 8/9
+2008: 4/4
+2006: 5/5
+2005: 8 students entered, not sure how many passed
+
+Out of these, a large number of our passing students have decided to stay
+involved in their projects or have continued to contribute to different
+projects within our community. Even one of the students we had to fail in the
+finals has gone on to become one of our long term contributors.
+
+We used to struggle somewhat with not getting the work produced by our
+students merged into their respective projects in a timely manner, but we were
+able to improve this situation considerably in the last rounds. To my
+knowledge, all of last year's projects are either already shipped as part of
+an official release or are close to being shipped in the very near future.
+
+We believe our strategy for getting people involved with the Perl world and
+becoming a part of it to have been rather successful. Many of our students have
+decided to participate beyond the summer, remaining important contributors to
+many different projects, even years after their participation in the Summer of
+Code.
+
+TODO: specific project examples?
+
+
+Project Details:
+
+We plan to follow the successful precedent set by Google and to model our
+Summer of Code on theirs wherever that makes sense.
+
+In practice, that means that we plan to hold the programme over the summer in
+the northern hemisphere.  However, we plan to allow a little more flexibility
+than Google on the precise dates in order to be able to be able to accommodate
+the differing schedules of individual students.  Should this programme be
+successful, we may consider expanding it to cover summer in the southern
+hemisphere, or to other times.
+
+We plan to pay each student $5,000 for their participation divided as follows:
+ - $500  on acceptance
+ - $2000 on successful completion of the first half of the programme
+ - $2500 on successful completion of the entire programme
+This is the same as for GSoC.
+
+TODO: other details
+
+
+Deliverable Elements:
+
+We would like to have up to five students participating in our Summer of Code.
+Obviously this depends on getting enough proposals of sufficient quality.  We
+will work with students who contact us early enough to help them in this
+process.
+
+For each student we will provide a primary and a backup mentor to monitor and
+assist in their progress.
+
+Each students project will be responsible for their own deliverable elements.
+We will ensure that these are appropriate before accepting the student.
+
+
+Project Schedule:
+
+We would like to be able to announce the programme as soon as possible and
+accept applications up to May 14th 2012.  We will announce which students will
+take part in the programme on May 21st and students will be able to officially
+start work from that point onwards.  For each student we will determine an
+official starting date between May 21st and July 9th.
+
+Six weeks after the official project start there will be a mid-term evaluation
+to determine whether the student continues into the second half of he
+programme and receives the mid-term payment.  A further six weeks later the
+final assessment will take place to determine whether the student has passed
+and will receive their final payment.
+
+
+Bio:
+
+For both my prospective backup admin, Mark, and myself, it'll be the second year
+of acting as an org-admin. Before that, I used to be involved as a mentor for
+both the Perl Foundation and XMMS2, as well as a student for XMMS2 in an earlier
+program. Many of our mentors have a similar depth of experience with GSoC.
+
+
+Amount Requested: $25,000
